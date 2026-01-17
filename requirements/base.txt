@@ -1,0 +1,17 @@
+httpx
+websockets
+anyio
+aiolimiter
+tenacity
+pydantic
+python-dotenv
+orjson
+rich
+loguru
+cryptography
+pandas
+numpy
+matplotlib
+ccxt
+PySide6
+pyqtgraph
