@@ -19,6 +19,8 @@ From the repository root:
 python -m src.app
 ```
 
+> **Note:** On Linux you may need system OpenGL libraries (for example, `libGL`) for Qt to initialize properly.
+
 ## Tests
 
 ```bash
