@@ -1,7 +1,1 @@
-httpx
-
-python-dotenv
-
-pydantic
-
-rich
+-r requirements/base.txt
