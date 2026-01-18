@@ -16,7 +16,7 @@ This branch (`gui-v0.1`) provides a **GUI-only** PySide6 desktop shell for monit
 From the repository root:
 
 ```bash
-python -m src.app
+python -m src.app.main
 ```
 
 ## Tests
